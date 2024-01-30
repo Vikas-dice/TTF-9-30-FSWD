@@ -1,0 +1,79 @@
+MERN + DSA +DEVOPS(K8S,DOCKER)+AWS+CORE CS(DBMS,OS,CN)
+MERN - MONGODB,EXPRESSJS,REACTJS,NODEJS
+
+DSA-DATA STRUCTURES AND ALGO
+
+K8S- KUBERNETES
+AWS= AMAZON WEB SERVICES
+
+DBMS= DATA BASE MANAGEMNENT SYSTEM
+OS- OPERATING SYSTEMCN- COMPUTER NETWROKS
+
+------------------------------------------------------------------------------
+
+DOM- Document object model
+------------------------------------------------------
+
+html
+css
+tailwind css
+git github
+js
+js DOM
+js revise- advance js , Async js
+
+REACT JS
+backend-node ,
+ express, rest, middlewares, mvc(model view controller),junit.jmocha,
+ query language,linux,deployment-aws,
+ci/cd-continuous integration and continuous delivery/continuous deployment.
+
+
+--------------------------------------------------------------------------------------------------
+js- ecma international
+   -mdn Document
+   ------------------------------------------------------
+
+Netflix
+swiggy
+airbnb
+chat apps- video calling , chatting
+social media - twitter full stack
+flight mgmt -
+ola/uber
+telegram bot
+---------------------------------------------------------------
+
+DSA- leetcode- 300-350 ques
+
+
+
+----------------------------------------------------------------------------
+
+dsa-leetcode(100 ques)+react- 6lpa
+dsa-leetcode(250)+react+backend(mern)-12lpa
+dsa-leetcode(350)+mern+aws+devops=15-18lpa
+dsa-leetcode(500-600)+system design(lld-oops)=bhagwan
+
+
+
+-----------------------------------------------------------------------------------
+html+css+js+jsdom- vanilla(projects)
+react+
+
+
+9548529401 vikas chaudhary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
