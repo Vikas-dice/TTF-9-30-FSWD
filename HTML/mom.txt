@@ -1,0 +1,10 @@
+git init
+git status -- working, tracked, staged, final repository
+git add .
+save - git commit -m "msg"
+git status - working tree clean - code push remote
+git remote add origin "path"
+git push -u origin master 
+
+
+--------------------------------------------------------------
