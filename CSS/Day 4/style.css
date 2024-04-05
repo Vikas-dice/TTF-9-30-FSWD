@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+/* #parent{
+    font-size: 100px;
+}
+#child{
+    height: 2em;
+    width: 2em;
+    background-color: yellow;
+} */
+
+
+/* #grandparent{
+    font-size: 100px;
+}
+#parent{
+    font-size: 50px;
+    height: 2em;
+    width: 2em;
+    background-color: yellow;
+
+}
+
+#child{
+    height: 1em;
+    width: 1em;
+    background-color: red;
+
+} */
+/* 
+html{
+    font-size: 100px;
+}
+
+#parent{
+    font-size: 50px;
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+}
+#child{
+    height: 1rem;
+    width: 1em;
+    background-color: red;
+
+}  */
+
+/* 
+#box a{
+    display:block;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+} */
+
+/* #box a{
+    display: block;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    
+} */
+/* #div1{
+    height: 200px;
+    /* width: 100px; */ 
+    /* background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}  */
+
+
+/* #main{
+
+    position: fixed;
+    height: 1000px;
+    width: 400px;
+    background-color: cyan;
+}
+#div1{ */
+    /* position: absolute;
+    top: 50px;
+    left: 400px; */
+    /* position: fixed; */
+
+/* 
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+#div2{
+    /* position: absolute;
+    left: 90%;
+    top: 50%; */
+    /* height: 100px; */
+    /* width: 100px;
+    background-color: magenta;
+} */
+/* #div3{ */
+    /* position: absolute;
+    right: -25%;
+    top: 30%; */
+    /* height: 100px;
+    width: 100px;
+    background-color: blue;
+} */ 
+
+#box1{
+    height: 100px;
+    width: 100px;
+    /* background: linear-gradient(to left , red,green);
+     */
+     /* background: red;
+      
+     */
+     background: url(https://images.unsplash.com/photo-1707492805162-7375871503af?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+     background-size: contain;
+     background-position: center;
+     background-repeat: no-repeat;
+    
+}
+/* #box2{
+    height: 200px;
+    width: 200px;
+    /* background: url(../../../../Akash\ Gupta\ -\ 1.jpg);
+     */
+     /* background-image: url(../../../../pan-vikas.jpeg); */
+    /* background-size: contain; */
+    /* background-position: center; */
+    
+/* } */ 

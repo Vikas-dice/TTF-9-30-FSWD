@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#div2{
+    background-color: green;
+    height: 200px;
+    width:200px
+
+
+
+}
+/* #divA{
+    background-color: magenta;
+
+} */
+
+/* #divA>#divB>#divC>P{
+    font-style: italic;
+    background-color: brown;
+
+} */
+
+#divC p{
+    font-size: 50px;
+    color: aqua;
+
+}
+
+/* .main>#divn1{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+} */
+
+#divn1{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+#divn2{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+#divn3{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+

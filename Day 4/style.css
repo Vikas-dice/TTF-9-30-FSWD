@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/* #parent{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+#children{
+    height: 50vh;
+    width: 50vw;
+    background-color: green;
+} */
+
+/* html{
+    font-size: 160px;
+}
+
+div{
+    height: 2rem;
+    width: 2rem;
+    background-color: red;
+} */
+html{
+    font-size: 50px;
+}
+#parent{
+    font-size: 10px;
+}
+#children{
+    /* max-width: 100px;
+    min-height: ; */
+    /* max-height: 200px;
+    max-width: 250px; */
+    min-width: 100px;
+    min-height: 100px;
+    height: 2em;
+    width: 2em;
+    background-color: pink;
+
+}

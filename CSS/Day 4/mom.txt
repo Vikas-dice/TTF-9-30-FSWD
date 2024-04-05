@@ -1,0 +1,8 @@
+Date 13th feb, 2024
+
+last class - units - % pixel em rem vh vw mix min
+ rem em - font size 
+
+ em - font size -parent 
+ rem - fonty size - root element - html
+ 

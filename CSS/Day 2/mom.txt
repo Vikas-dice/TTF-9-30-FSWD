@@ -1,0 +1,19 @@
+css 
+-inline, internal,external
+-div tag
+-selector - universal, tag name , class , id , descent property 
+- css boilerplate code - 
+--------------------------------------------------------------------------------------------------------
+css syllabus - 
+height and width
+color - color theory 
+typographhy - text prop, font size, font weight , text allignment etc 
+box model - margin , padding , border , content 
+flexbox - 
+grid 
+psedo classes and tags
+animation and media query
+
+--------------------------------------------------------------------------------------------------------------
+
+

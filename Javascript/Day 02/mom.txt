@@ -1,0 +1,144 @@
+Date 4th april, 2024
+
+Last Class - operators conditionals variables ram meory mgmt output input 
+
+
+Loops
+break 
+continue
+
+
+dry run 
+
+l34 i=ram=1
+i<=10 1<=10 true
+l34 vikas 1
+i=i+1 i=1+1=2
+i<=10 2<=10 true
+l35 vikas 2
+i=i+1 2+1=3
+i<=10 3<1=0 true
+l35 vikas 3
+i=i+1 3+1=4
+i<=10 4<=10 true
+l35 vikas 4
+i=i+1 4+1=5
+i<=10 5<=10 true
+l35 vikas 5
+... i=10
+i<=10 10<=10
+10<10 false
+10=10 true- true
+l35 vikas 10
+i=i+1 10+1=11
+i<=10 11<=10 
+11<10 false
+11=10 false 0 false
+
+
+dry run 2
+
+l42 i=ram =10
+i>=1 10>=1 true
+l43 vikas 10
+i=i-1 10-1=9
+i>=1 9>=1 true
+vikas 9
+...
+
+
+dry run 3
+
+
+l55 i=ram=10
+l56 i>=1 10>=1 true
+l57 vikas 10
+l58 i=i-1 10-1 =9
+l56 i>=1 9>=1 true
+l57 vikas 9
+l58 i=i-1 9-1=8
+l56 i>=1 8>=1 true
+l57 vikas 8
+l58 i=i-1 8-1=7
+l56 i>=1 7>=1 true
+
+
+
+dry run 3
+l63 i=ram =1
+l65 
+l66 vikas 1
+l67 i=i+1 1+1=2
+l68 i>=2 2>=2 true
+l66 vikas 2
+l67 i=i+1 2+1=3
+l68 i>=2 3>=2 true 
+l66 vikas 3
+i=i+1 3+1=4
+i>=2 
+
+dry run 4
+
+l85 i=ram =1
+l86 i<=5 1<=5 true
+l87 j=ram=1
+j<=5 1<=5 true
+l88 vikas 1 1 
+j++ j=2
+j<=5 2<=5 true
+vikas 1 2
+j++ j=3
+j<=5 3<=5 true
+vikas 1 3
+j++ j =4
+j<=5 4<=5 true
+vikas 1 4
+vikas 1 5 
+j++ j=6
+j<=5 6<=5 false
+l90 i=2
+l86 i<=5 2<=5 true
+
+
+dry run 5
+
+l17 i=1
+i<=5 1<=5 true
+l18 vikas 1
+l19 break -
+
+
+l27 i=ram=1
+l28 i<=2 1<=2 true
+l29 j=1
+j<=5 1<=5 true
+l30 vikas 1 1
+l31 break;
+l34 i++ i=2
+i<=2 2<=2 true
+l29 j=1
+j<=5 1<=5 truel30 vikas 2 1
+l31 break 
+l34 i++ i=3
+i<=2 3<=2 false
+l36 loop k bahar 
+
+
+dry run 6
+l6 i=ram=1
+i<=10 1<=10 true
+l7 i==5 1==5 false
+l12 vikas 1
+i++ i=2
+i<=10 2<=10 true
+l7 i==5 2==5 false
+l12 vikas 2
+..
+
+
+vikas 4
+i++ i=5
+i<=10 5<=10 true
+l7 i==5 5==5 true
+l8 continue ;
+i++ i=6

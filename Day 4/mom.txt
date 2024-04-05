@@ -1,0 +1,6 @@
+units - px %  vw vh em rem max min 
+
+arr =[12,6,9,23,2,44,37,46]
+max = 46
+min = 2
+diff = 46-2 =44
