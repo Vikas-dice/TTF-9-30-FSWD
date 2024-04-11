@@ -1,0 +1,26 @@
+Doubt/Practice class 
+
+Patterns -loops
+
+
+map.keys
+map.values()
+map.enteries()-value 0 1
+
+
+
+set -value unique
+
+new set(10,20,30)
+set.add(40)
+set.delete()
+set.clear
+set.has(value)
+
+iterate for of value
+
+
+weakmap and weakset
+
+
+
