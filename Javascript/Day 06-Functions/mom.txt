@@ -1,0 +1,16 @@
+Date 12th april,2024
+
+Last Class-Pattern , numbers pattern 
+
+Functions - es 5 , es6 
+
+functions - DRY - 
+
+
+HW-Number system - decimal,binary,octal
+conversion 0decimal to binary,decimal to octal, octal to binary
+addition ,subtraction , multi,
+callstack
+
+
+
