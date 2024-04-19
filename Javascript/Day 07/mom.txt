@@ -1,0 +1,49 @@
+Date 16th april , 2024
+
+Last Class - function es5 es 6 questions 
+
+Questions continue -
+  dry run
+
+
+l35 right side 
+l25 num=7818
+l26 nod =ram=0
+l27  num>0 7818>0 true
+l28 num=num/10=781.8=781
+l29 nod++ nod=0+1=1
+l27 num>0 781>0 true
+l28 num=num/10=781/10=78.1=78
+l29 nod++ nod=2
+l27 num>0 78>0 true
+num=78/10=7.8=7
+nod++ nod=3
+l27 num>0 7>0 true
+l28 num=7/10=0
+l29 nod++ nod=4
+l27 num>0 0>0 false
+;l32 return nod = 4
+l35 left side = ans=nod=4
+l36 4
+
+
+
+ques - 78568%10=8 print
+78568-7856%10=6
+7856=785%10=5
+785=78%10=8
+
+8
+6
+5
+8
+7
+
+
+ques 2 - 5789
+5
+7
+8
+9
+
+

@@ -1,0 +1,117 @@
+Date - 19th april , 2024
+
+Last Class - Array Intro, Array Methods
+
+Questions on functions (Number System)
+
+Decimal - base 10 - 10 diff digits 0 1 2 3 4 5 6 7 8 9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+...
+99
+100...999
+1000
+...9999
+
+
+Binary - base 2 - 2 diff digits 0 1
+0
+1
+10
+11
+100
+101
+110
+111
+1000
+
+
+Octal - base 8 - 8 diff digits 0 1 2 3 4 5 6 7
+0
+1
+2
+3
+4
+5
+6
+7
+10
+11
+12
+13
+17
+20
+21
+27
+77
+100
+777
+1000
+
+
+Hexa base 16 0 1 2 3 4 5 6 7 8 9 a b c d e f 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+20
+
+dry run q1
+l19 right side
+l8 num=78678
+taget=7
+l9 count=0;
+l10 num>0 78678>0 true
+l11 ld=78678%10=8
+l12 ld==target 8==7 false
+l15 num=78678/10=7867.8=7867
+l10 num>0 7867>0 true
+l11 ld=7867%10=7
+l12 ld==target 7==7 true
+l13 count++, count=0+1=1
+l15 num=7867/10=786.7=786
+l10 num>0 786>0 true
+;11 ld=786%10=6
+l11 ld==target 6==7 false
+l15 num=786/10=78.6=78
+l10 num>0 78>0 trueld=78%10=8
+l12 ld==target 8==7 false
+l15 num=78/10=7.8=7
+l10 num>0 7>0 true
+l12 ld=7%10=7
+l13 ld==taget 7==7 true
+l13 count++=count=2
+l15 num=7/10=0.7=0
+l10 num>0 0>0 false
+l17 return 2
+l19 ka left wala side
+ans =2
+
+
+
+
