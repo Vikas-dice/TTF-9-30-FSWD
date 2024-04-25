@@ -1,0 +1,36 @@
+Date 23rd april , 2024
+
+Last Class - Questions on Number System 
+
+Level 1 js  ( target 60+ questions)
+- Variables 
+-Ram Memory mgmt
+-conditionals (if else else if switch ternary)
+- loops ( for while do while)
+- functions ( es5 and es6 ( fat arrow functions ))
+- Array Intro
+
+*Objects 
+*Object cloning 
+*Async js intro ( level 1)
+
+-----------------------------------------------------
+Questions 
+-Number Traversal
+-loops (patterns questions)
+-Functions - Number Systems questions 
+-Array - questions 
+-2 d array questions 
+-String questions 
+
+---------------------------------------------------------
+
+let marks 1=10;
+let marks2=20;
+let marks3=30;
+let marks4=40;
+let marks5=50;
+
+
+
+
