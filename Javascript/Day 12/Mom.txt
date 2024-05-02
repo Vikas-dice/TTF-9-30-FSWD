@@ -1,0 +1,6 @@
+Date 2nd may , 2024
+
+Last Class - function cons , new keyword , string 
+
+functions cons continue 
+
