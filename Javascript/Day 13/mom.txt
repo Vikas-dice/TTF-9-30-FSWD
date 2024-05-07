@@ -1,0 +1,7 @@
+Date 7th may , 2024
+
+Last Class - doubts (level 1).
+
+class keyword - es 6 
+
+class - blueprint - skeleton - 
