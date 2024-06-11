@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .red{
+            background-color: red;
+            color: white;
+            padding: 10px;
+        }
+        .green{
+            background-color:green;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+
+    <!-- <button id="btn" >click me </button> -->
+
+    <!-- <button class="red" id="btn" onclick="changecolor()">click me </button>
+
+    <script>
+        let btn =document.getElementById("btn")
+
+        function changecolor(){
+            // btn.className="green"
+            btn.classList.add("green")
+
+        }
+
+
+
+
+
+    </script> -->
+
+    <!-- <script>
+        let button=document.getElementById("btn")
+        button.ondblclick=function changecolor(){
+            button.classList.add("green")
+        }
+
+        
+    </script> -->
+
+
+    <button id="btn">click me </button>
+
+    <script>
+     let button=   document.getElementById("btn")
+
+     button.addEventListener("dblclick",function changecolor(){
+        button.classList.add("green")
+     })
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,26 @@
+DOM = DOCUMENT OBJECT MODEL
+
+selectors
+1- html selectors
+2- queryselector '
+
+
+flow -
+
+DOM - ALMOST 
+
+level 1 dom prjects (8-10 project)
+misc js topic - 3 class
+
+major projects - 2 projects 
+
+React 
+
+
+
+
+
+
+
+
+

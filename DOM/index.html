@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <!-- <button ondblclick="console.log('i am clicked ')">click me </button>
+   <button ondblclick="console.log('i am clicked ')">click me </button> -->
+
+   
+<!--selector 1- html seelctor -->
+<!-- 1- geteleimentbyid , geteletagname,geteleclassname etc -->
+
+<button>click me button </button>
+
+<h1 id="head1">heading 123</h1>
+<h1  id="head1">heading</h1>
+<h1 class="headclass">heading</h1>
+<h1 class="headclass"></h1>>heading</h1>
+<h1 class="headclass"></h1>>heading</h1>
+
+<script>
+
+    let mybtn=document.getElementsByTagName('button');
+    console.log(mybtn);
+
+    let headings=document.getElementsByTagName('h1')
+console.log(headings);
+
+// for(let i=0;i<headings.length;i++){
+//     console.log(headings[i]);
+// }
+
+// let i=0;
+// while(i<headings.length){
+//     console.log(headings[i]);
+//     i++;
+// }
+
+// for(const elt of headings){
+//     console.log(elt);
+// }
+   
+let head1=document.getElementById('head1')
+console.log(head1);
+
+let headclasses=document.getElementsByClassName('headclass')
+console.log(headclasses);
+
+for(const elt of headclasses){
+    console.log(elt);
+}
+
+
+</script>
+
+
+    
+</body>
+</html>
