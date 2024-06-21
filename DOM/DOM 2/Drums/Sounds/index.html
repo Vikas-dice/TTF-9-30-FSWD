@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    hello world 
+
+    <!-- <button id="btn">click me to play music </button> -->
+
+    <button>instrument1</button>
+    <button>instrument2</button>
+    <button>instrument3</button>
+    <button>instrument4</button>
+    <button>instrument5</button>
+    <button>instrument6</button>
+
+    <script>
+
+        let btns=document.querySelectorAll("button")
+        console.log(btns.length);
+
+
+        for(let i=0;i<btns.length;i++){
+            btns[i].addEventListener("click",function(){
+
+                let music=new Audio('moyemoyeshort.mp3')
+                music.play();
+
+                setTimeout(() => {
+                    music.pause();
+                    
+                }, 3000);
+
+
+
+
+
+            })
+        }
+
+
+        // let btn =document.getElementById("btn")
+
+        // btn.addEventListener("click",function(){
+
+        //     let music = new Audio('moyemoyeshort.mp3')
+        //     music.play();
+        //     setTimeout(() => {
+        //         music.pause();
+        //     }, 3000);
+         
+
+
+
+        // })
+
+
+
+
+    </script>
+    
+</body>
+</html>

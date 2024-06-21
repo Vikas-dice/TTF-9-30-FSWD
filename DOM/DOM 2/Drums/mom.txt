@@ -1,0 +1,6 @@
+
+
+Audio global class/prototype
+- play 
+-pause 
+

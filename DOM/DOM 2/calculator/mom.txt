@@ -1,0 +1,16 @@
+
+
+element selection 
+
+switch(operatr){
+    case "+":
+    elet.addevent("click",function(){
+        eval();
+        input.append();
+        
+    })
+
+
+
+    case "-":
+}
