@@ -22,24 +22,78 @@
         let btns=document.querySelectorAll("button")
         console.log(btns.length);
 
-
         for(let i=0;i<btns.length;i++){
             btns[i].addEventListener("click",function(){
+                let key=btns[i].innerHTML;
+            console.log("key---",key);
 
-                let music=new Audio('moyemoyeshort.mp3')
-                music.play();
-
-                setTimeout(() => {
-                    music.pause();
-                    
-                }, 3000);
-
-
-
-
+            makesound(key)
 
             })
+           
         }
+
+
+        function makesound(key){
+            switch(key){
+                case "instrument1":
+               let music1= new Audio('moyemoyeshort.mp3')
+               music1.play();
+               setTimeout(() => {
+                music1.pause()
+                
+               }, 3000);
+               break;
+
+                case "instrument2":
+                let music2= new Audio('crash.mp3')
+                music2.play();
+               break;
+               
+                case "instrument3":
+                let music3= new Audio('kick-bass.mp3')
+                music3.play();
+                break;
+                case "instrument4":
+                let music4= new Audio('snare.mp3')
+                music4.play();
+                break;
+                case "instrument5":
+                let music5= new Audio('tom-1.mp3')
+                music5.play();
+                break;
+                case "instrument6":
+                let music6= new Audio('tom-2.mp3')
+                music6.play();
+                break;
+                default:
+                let music7= new Audio('moyemoyeshort.mp3')
+                music7.play();
+
+            }
+        }
+
+    
+
+
+
+        // for(let i=0;i<btns.length;i++){
+        //     btns[i].addEventListener("click",function(){
+
+        //         let music=new Audio('moyemoyeshort.mp3')
+        //         music.play();
+
+        //         setTimeout(() => {
+        //             music.pause();
+                    
+        //         }, 3000);
+
+
+
+
+
+        //     })
+        // }
 
 
         // let btn =document.getElementById("btn")
